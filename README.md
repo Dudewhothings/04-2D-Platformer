@@ -1,11 +1,11 @@
 # 2D-Platformer-Character
 
-A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
+A partially-finished project with two levels that are copies of each other. I was stressed out, and could not finish this.
 
 ## Implementation
 Built using Godot 3.2.3
 
-The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
+I implemented a bare-bones pair of levels with the same tiles due to a mistake I couldn't fix.
 
 ## References
 None
@@ -17,4 +17,4 @@ None
 None
 
 ## Created by 
-Jason Francis
+Xander Robbins
